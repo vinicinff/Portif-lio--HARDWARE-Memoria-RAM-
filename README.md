@@ -75,8 +75,8 @@ segue o arquivo.html para ver com mais detalhes
   <h2>Introdução</h2>
   <p>A memória RAM, ou <em>Random Access Memory</em>, é uma parte crucial de qualquer dispositivo eletrônico, desde os computadores mais simples aos mais avançados, passando por celulares e até televisores. Ela funciona como uma área de trabalho temporária para o computador, armazenando dados e instruções que o processador está utilizando no momento, permitindo acesso rápido e eficiente.</p>
   
-  <h2>Memória RAM x Memória ROM</h2>
-  <p>A memória ROM, diferente da RAM, armazena arquivos fixos no computador — como arquivos .exe, .jpeg, .png, .txt, .html, entre outros. Ela possui diversos tamanhos, que podem variar de 100 GB a 1 TB, dependendo do modelo que você escolher. Já a memória RAM armazena apenas arquivos temporários, servindo para melhorar o desempenho e gerenciar dados dos programas que estão abertos no momento.</p>
+  <h2>Memória RAM x Memória do HD</h2>
+  <p>A memória do HD, diferente da RAM, armazena arquivos fixos no computador — como arquivos .exe, .jpeg, .png, .txt, .html, entre outros. Ela possui diversos tamanhos, que podem variar de 100 GB a 1 TB, dependendo do modelo que você escolher. Já a memória RAM armazena apenas arquivos temporários, servindo para melhorar o desempenho e gerenciar dados dos programas que estão abertos no momento.</p>
   
   <h2>Critérios Fundamentais da Memória RAM</h2>
   <ul>
