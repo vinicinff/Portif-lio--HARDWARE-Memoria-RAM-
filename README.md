@@ -1,6 +1,8 @@
 # Portif-lio--HARDWARE-Memoria-RAM-
 
-Site básico sobre a memória ram para fins acadêmicos Conteúdo:
+Site básico sobre a memória ram para fins acadêmicos
+
+segue o arquivo.html para ver com mais detalhes, mas se nao quiser, pode ler:
 
 Introdução
 
